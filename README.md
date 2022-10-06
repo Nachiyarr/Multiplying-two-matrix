@@ -39,6 +39,8 @@ print("Product of two arrays is:",product)
 ```
 
 ## OUTPUT:
+![multi](https://user-images.githubusercontent.com/113497340/194228425-3a069b52-1d80-4ab6-8094-86358e5b7121.png)
+
 
 ## RESULT:
 Hence the program is runned successfully...

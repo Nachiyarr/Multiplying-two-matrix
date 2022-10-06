@@ -1,10 +1,12 @@
 # Multiplying-two-matrix
 
 ## AIM:
+To multiply two arrays
 
 ## ALGORITHM:
 
 ### Step 1:
+import num as np
 ### Step 2:
 ### Step 3:
 ### Step 4:

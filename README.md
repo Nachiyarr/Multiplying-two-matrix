@@ -1,7 +1,7 @@
 # Multiplying-two-matrix
 
 ## AIM:
-To multiply two matrix
+To  write a program to multiply two matrix
 
 ## ALGORITHM:
 
